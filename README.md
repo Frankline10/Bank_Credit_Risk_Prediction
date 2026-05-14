@@ -240,13 +240,13 @@ Bank-Credit-Risk-Prediction/
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/Frankline10/Bank_Credit_Risk_Prediction.git
 ```
 
 ## Navigate to Project Folder
 
 ```bash
-cd your-repository-name
+cd Bank_Credit_Risk_Prediction
 ```
 
 ## Create Virtual Environment
